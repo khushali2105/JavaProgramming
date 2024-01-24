@@ -1,3 +1,6 @@
 public class Practice1 {
-    //it,s practice 1
+    public static void main(String[] args){
+        //it,s practice 1
+    }
+
 }
